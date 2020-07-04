@@ -4,7 +4,8 @@ Merupakan Mini Program untuk mengirim pesan, video dan foto secara otomatis ke k
 ## Library Python:
 
 Selenium
-pip install selenium
+
+> pip install selenium
 
 Download Driver Chrome dari sini sesuai dengan versi chrome :- [disini](https://chromedriver.chromium.org/downloads)
 
